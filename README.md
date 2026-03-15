@@ -12,17 +12,30 @@
 
 ## Sobre
 
-- Estudante de Desenvolvimento de Software Multiplataforma na FATEC Diadema
-- Experiência prática em desenvolvimento web com JavaScript, Node.js, Express, Sequelize, SQL, HTML, CSS, Tailwind CSS e React
-- Conhecimentos em Modelagem de Banco de Dados (conceitual, lógica e física), POO, Estrutura de Dados e Sistemas Operacionais
-- Vivência com prototipação no Figma, design system, hierarquia visual e criação de interfaces navegáveis
-- Interesse em desenvolvimento web full stack e boas práticas de código
+- Estudante de **Análise e Desenvolvimento de Sistemas**
+- Focada em **desenvolvimento backend**
+- Estudando **C#, .NET e PostgreSQL**
+- Experiência com **JavaScript, Node.js, Express, Sequelize, SQL, HTML, CSS, Tailwind CSS e React**
+- Conhecimentos em **Programação Orientada a Objetos, Estrutura de Dados e Modelagem de Banco de Dados**
+- Interesse em **desenvolvimento de APIs, backend e boas práticas de código**
+
+---
+
+## Tecnologias e Estudos
+
+- **Backend:** C#, .NET, Node.js  
+- **Banco de Dados:** PostgreSQL, SQL  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Ferramentas:** Git, GitHub, Figma  
+
+---
 
 ## Projetos em destaque
 
-- **TEIA** – Desenvolvimento de telas e componentes utilizando React, boas práticas de rotas, organização de pastas e integração visual
-- **Sistema MEI** – Página de login interativa com contador dinâmico, manipulação de DOM e comportamento visual orientado ao usuário
-- **Projeto de Pizzaria** – Construção de interface e lógica de sistema para gestão simples, seguindo padrões de desenvolvimento web
+- **TEIA** – Desenvolvimento de telas e componentes utilizando React e organização de rotas  
+- **Sistema MEI** – Página de login interativa com manipulação de DOM e comportamento visual dinâmico  
+
+---
 
 ## Contato
 
